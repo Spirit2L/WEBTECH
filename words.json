@@ -1,0 +1,50 @@
+[
+  {
+    "easy": [
+      {
+        "word": "SNOW",
+        "hint": "a white thing that falls from the sky in winter"
+      },
+      {
+        "word": "EYE",
+        "hint": "window to the soul"
+      },
+      {
+        "word": "DOG",
+        "hint": "the man's best friend"
+      },
+      {
+        "word": "ATLAS",
+        "hint": "you will find the whole world on it"
+      },
+      {
+        "word": "TEA",
+        "hint": "English people drink it at five o'clock\n"
+      }
+    ]
+  },
+  {
+    "hard": [
+      {
+        "word": "INFINITY",
+        "hint": "it has no end"
+      },
+      {
+        "word": "LANGUAGE",
+        "hint": "serves for communication between people"
+      },
+      {
+        "word": "ANNIVERSARY",
+        "hint": "it is celebrated, for example, by married couples after a year of marriage"
+      },
+      {
+        "word": "DISAGREEMENT",
+        "hint": "when you don't share the same opinion with someone"
+      },
+      {
+        "word": "DIFFERENCE",
+        "hint": "when something is not the same"
+      }
+    ]
+  }
+]
